@@ -1,4 +1,18 @@
 # Proyecto-Individual
+En este proyecto se busco realizar una pagina, de caracteristicas sencillas pero elegantes, la cual es una pagina de Bienes raíces esta tiene diversas funciones en JS
+como un modo Dark y un modo Light, tambien algunos efectos de Scroll, y algunas funcionalidades de formularios.
+
+Tambien se busco utilizar PHP, ya que este lenguaje es mundialmente utilizado  y hay bastante documentación. 
+
+Cabe mencionar que tambien se utilizo SASS, JS, MySQL y Gulp.
+
+# Información Técnica
+
+El proyecto es 100% responsive esto quiere decir que puede ser utilizado en cualquier disposiitivo y se adaptara de manera optima, tambien se utilizo Gulp para la automatización de los procesos de las diversas hojas de estilo, esto haciendo que la pagina sea mucho mas rasponsiva en poco tiempo y tenga una mejor optimización en los procesos.
+
+Tambien se añadieron detalles de JS, bastante sutiles como lo de los temas de color, y algunas fucniones de codigo como el menu "hamburguesa" Scrolls etc.
+
+Y por ultimo la idea de esta pagina es que un vendedor pueda ser contactado por un usario por medio de unos formularios los cuales deben estar vinculados a una base de datos MySQL para que se guarden los datos del cliente y puedan checarse directamente en el visor de la base de datos.
 
 # Bienes Raíces 
 
