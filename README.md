@@ -1,7 +1,6 @@
 # Proyecto-Individual
 
 # Bienes Raíces 
-Este proyecto apela tanto para el Frontend como para backend.
 
 # Capturas
 ![image](https://user-images.githubusercontent.com/111943025/205859134-ee608df8-fc02-47b4-af7a-5b0e66e6db04.png)
