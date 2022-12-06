@@ -1,5 +1,5 @@
 # Proyecto-Individual
-En este proyecto se busco realizar una pagina, de caracteristicas sencillas pero elegantes, la cual es una pagina de Bienes raíces esta tiene diversas funciones en JS
+En este proyecto se busco realizar una pagina tanto para front-end y back-end, de caracteristicas sencillas pero elegantes, la cual es una pagina de Bienes raíces esta tiene diversas funciones en JS
 como un modo Dark y un modo Light, tambien algunos efectos de Scroll, y algunas funcionalidades de formularios.
 
 Tambien se busco utilizar PHP, ya que este lenguaje es mundialmente utilizado  y hay bastante documentación. 
